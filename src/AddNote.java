@@ -107,7 +107,7 @@ public class AddNote {
             catch (IOException e) {
                 e.printStackTrace();
             }
-            System.out.println("printed successfully");
+            System.out.println("exported successfully");
         } else {
             System.out.println("Invalid index. Note not removed.");
         }

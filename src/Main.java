@@ -25,7 +25,7 @@ public class Main {
                 return;
             }
             else if (num == 1) {
-                System.out.println("Choose a title:");
+                System.out.println("Choose a word for title:");
                 String title = x.next();
                 System.out.println("Write your note:");
                 System.out.println("Press '#' to finish or Enter to continue:");
